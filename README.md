@@ -360,11 +360,8 @@ All questions are personalized according to the uploaded resume.
 
 # 🎥 Demo Video
 
-(Add your LinkedIn video URL here)
 
-Example
-
-https://www.linkedin.com/.....
+https://www.linkedin.com/.....](https://www.linkedin.com/posts/roshan-ric_playwright-javascript-nodejs-ugcPost-7479223604409171969-tKHL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPB9M4BSeaemDlRsa1cJCAXNfG32JvFOWg)
 
 ---
 
